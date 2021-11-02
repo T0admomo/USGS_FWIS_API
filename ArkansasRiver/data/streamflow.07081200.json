@@ -1,0 +1,36 @@
+{
+    "site_name": "ARKANSAS RIVER NEAR LEADVILLE, CO",
+    "site_code": "07081200",
+    "time_zone": "MST",
+    "coordinates": [
+        39.249,
+        -106.3481111
+    ],
+    "observations": [
+        {
+            "Stream_flow": "44.6",
+            "Gage_height": "4.80",
+            "Datetime": "2021-08-19T10:15:00.000-06:00"
+        },
+        {
+            "Stream_flow": "44.6",
+            "Gage_height": "4.80",
+            "Datetime": "2021-08-19T10:15:00.000-06:00"
+        },
+        {
+            "Stream_flow": "44.6",
+            "Gage_height": "4.80",
+            "Datetime": "2021-08-19T10:15:00.000-06:00"
+        },
+        {
+            "Stream_flow": "44.6",
+            "Gage_height": "4.80",
+            "Datetime": "2021-08-19T11:15:00.000-06:00"
+        },
+        {
+            "Stream_flow": "44.6",
+            "Gage_height": "4.80",
+            "Datetime": "2021-08-19T11:15:00.000-06:00"
+        }
+    ]
+}

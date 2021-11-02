@@ -1,0 +1,36 @@
+{
+    "site_name": "HALFMOON CREEK NEAR MALTA, CO",
+    "site_code": "07083000",
+    "time_zone": "MST",
+    "coordinates": [
+        39.17221259,
+        -106.3891926
+    ],
+    "observations": [
+        {
+            "Stream_flow": "18.3",
+            "Gage_height": "1.59",
+            "Datetime": "2021-08-19T10:30:00.000-06:00"
+        },
+        {
+            "Stream_flow": "18.3",
+            "Gage_height": "1.59",
+            "Datetime": "2021-08-19T10:30:00.000-06:00"
+        },
+        {
+            "Stream_flow": "18.3",
+            "Gage_height": "1.59",
+            "Datetime": "2021-08-19T10:30:00.000-06:00"
+        },
+        {
+            "Stream_flow": "18.3",
+            "Gage_height": "1.59",
+            "Datetime": "2021-08-19T10:30:00.000-06:00"
+        },
+        {
+            "Stream_flow": "18.9",
+            "Gage_height": "1.60",
+            "Datetime": "2021-08-19T11:30:00.000-06:00"
+        }
+    ]
+}

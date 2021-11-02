@@ -1,0 +1,36 @@
+{
+    "site_name": "ARKANSAS RIVER BELOW EMPIRE GULCH NEAR MALTA, CO",
+    "site_code": "07083710",
+    "time_zone": "MST",
+    "coordinates": [
+        39.1638798,
+        -106.320024
+    ],
+    "observations": [
+        {
+            "Stream_flow": "107",
+            "Gage_height": "3.09",
+            "Datetime": "2021-08-19T10:00:00.000-06:00"
+        },
+        {
+            "Stream_flow": "107",
+            "Gage_height": "3.09",
+            "Datetime": "2021-08-19T10:00:00.000-06:00"
+        },
+        {
+            "Stream_flow": "107",
+            "Gage_height": "3.09",
+            "Datetime": "2021-08-19T11:00:00.000-06:00"
+        },
+        {
+            "Stream_flow": "107",
+            "Gage_height": "3.09",
+            "Datetime": "2021-08-19T11:00:00.000-06:00"
+        },
+        {
+            "Stream_flow": "107",
+            "Gage_height": "3.09",
+            "Datetime": "2021-08-19T11:00:00.000-06:00"
+        }
+    ]
+}

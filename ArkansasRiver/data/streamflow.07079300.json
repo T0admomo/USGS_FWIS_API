@@ -1,0 +1,36 @@
+{
+    "site_name": "EF ARKANSAS R AT US HIGHWAY 24, NR LEADVILLE, CO.",
+    "site_code": "07079300",
+    "time_zone": "MST",
+    "coordinates": [
+        39.2724892,
+        -106.3064133
+    ],
+    "observations": [
+        {
+            "Stream_flow": "34.9",
+            "Gage_height": "2.86",
+            "Datetime": "2021-08-19T10:15:00.000-06:00"
+        },
+        {
+            "Stream_flow": "34.9",
+            "Gage_height": "2.86",
+            "Datetime": "2021-08-19T10:15:00.000-06:00"
+        },
+        {
+            "Stream_flow": "34.9",
+            "Gage_height": "2.86",
+            "Datetime": "2021-08-19T10:15:00.000-06:00"
+        },
+        {
+            "Stream_flow": "34.9",
+            "Gage_height": "2.86",
+            "Datetime": "2021-08-19T11:15:00.000-06:00"
+        },
+        {
+            "Stream_flow": "34.9",
+            "Gage_height": "2.86",
+            "Datetime": "2021-08-19T11:15:00.000-06:00"
+        }
+    ]
+}
