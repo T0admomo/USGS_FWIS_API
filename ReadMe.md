@@ -14,4 +14,13 @@ ___
 
 This Library is OpenSource. I only ask that if you use what you find here that you let me know through message or comments because its great to hear, and site me in your work for the brownie points. Very open to collaboration with those more experienced in building python libraries, Hydrologic Data Analysis, or Real Time Data Visualization in Python. 
 
+The USGS has a helpful API Request formatting tool at https://waterservices.usgs.gov/rest/IV-Test-Tool.html
+And an interactive sensor site map at https://maps.waterdata.usgs.gov/mapper/
 
+## Descriptions:
+
+### 1.) Sensorlib/
+    Object representations of USGS sensor arrays.
+### 2.) ArkansasRiver/
+    A sample script created using Sensorlib/
+###
